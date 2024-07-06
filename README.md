@@ -23,7 +23,7 @@
 | Награда | Описание |
 |------------|-----------|
 | <img src="https://i.ibb.co/rwFWSrv/image-3.png" alt="1" width="200"/> | Я покорил turtle |
-| https://i.ibb.co/jJZzV56/image-4-2.png
+| https://i.ibb.co/jJZzV56/image-4-2.png | Я покорил Гитхаб
 
 ## ⏳ Время изучения Python
 
